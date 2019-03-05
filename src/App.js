@@ -14,8 +14,7 @@ class App extends Component {
           I was changed on the Feature branch  Tsinu :)
 
         </p><p>
-          Nati man
-            </p>
+          changed on the feature branch   </p>
       </div>
     );
   }
